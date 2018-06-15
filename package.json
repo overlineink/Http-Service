@@ -1,6 +1,11 @@
 {
-  "name": "movefiles",
-  "version": "0.0.0",
+  "author": {
+    "name": "Jorge Dacosta",
+    "email": "jorgedacosta@splashink.co",
+    "url": "https://facebook.com/Overlineoficial"
+  },
+  "name": "http-service",
+  "version": "1.3.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
